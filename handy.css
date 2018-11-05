@@ -197,7 +197,7 @@ table {
  }
 
 .footer{
-
+    background-image: url("footer.jpg");
     background-repeat: no-repeat;
     height:300px;
     width: 100vw;
@@ -205,12 +205,7 @@ table {
     margin-top: 20px;
 }
 
-.footer > .content1{
-	width: 275px;
- 	height: 225px;
- 	background-size: cover;
 
-}
 
 
 
@@ -219,8 +214,8 @@ table {
 	position: absolute;
 	z-index: -1;
 
-	margin-top: 930px;
-	left: 0px;
+	
+	
 }
 
 .Deals, .Diensten, .Contact{
@@ -228,7 +223,7 @@ table {
 	height: 85px;
 
 	position: absolute;
-	top: 1225px;
+	top: 1430px;
 
 	background-color: #ffe718;
 	color: #222931;
@@ -279,4 +274,3 @@ table {
 hr{
 	margin-top: 1275px;
 }
-
