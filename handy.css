@@ -212,29 +212,7 @@ table {
 
 }
 
-.info {
-	position: absolute;
-	top: 46px;
-	left: 1100px;
 
-	background-color: white;
-	border: none;
-	display: block;
-	
-	text-align: center;
-	font-size: 12px;
-	font-weight: 500;
-
-
-	padding: 10px 50px;
-}
-
-.info:hover {
-	background-color: #222931;
-	color: white;
-
-	cursor: pointer;
-}
 
 .footer{
 	width: 100%;
