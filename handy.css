@@ -205,16 +205,10 @@ table {
     margin-top: 20px;
 }
 
-
-
-
-
 .footer{
 	width: 100%;
 	position: absolute;
 	z-index: -1;
-
-	
 	
 }
 
@@ -333,6 +327,26 @@ hr{
 	margin: 0 auto;
 	width: 0 auto;
 	bottom: 10px;
+}
 
+.tekst h1{
+	text-align: center;
+ 	font-size: 2em;
+ 	line-height: 225px;
+ 	color: transparent;
+}
+
+.tekst p{
+margin-left: 500px;
+}
+
+.diensten h1{
+margin-left: 500px;
+font-size: 31px;
+
+}
+.diensten p{
+ margin-left: 500px;
+ margin-right: 500px;
 
 }
